@@ -1,0 +1,2 @@
+This is a really simple app that can be installed on any server running PHP.
+It simply creates a space for your clients and team members to view visible updates and task lists for projects you have open together.
